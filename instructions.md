@@ -22,4 +22,8 @@ You can validate the build was correctly installed on your system, given your Wi
 
 ## Uninstallation
 
-* **Windows 10 April 2018 Update, Windows 10 Creators Update, Windows 10 Anniversary Update, Windows Server 2016** -- Go to Installed Updates in Control Panel. Select 'Update for Microsoft Windows (KB4087461)' or 'Update for Microsoft Windows (KB4087485)' depending on the OS platform. Click uninstall and follow steps
+* **Windows 10 Anniversary Update, Windows 10 Creators Update and Windows Server 2016
+-- Go to Installed Updates in Control Panel. Select 'Update for Microsoft Windows (KB4087461)' Click uninstall and follow steps
+
+* **Windows 10 Fall Creators Update, Windows 10 April 2018 Update and Windows Server, version 1709
+-- Go to Installed Updates in Control Panel. Select 'Update for Microsoft Windows (KB4087485)' Click uninstall and follow steps
